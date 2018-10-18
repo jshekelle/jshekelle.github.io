@@ -15,3 +15,8 @@ I can link directly to my [about page](about.html)
 ### Picture of rocks
 
 <img src="images/1901870_10202126867388091_821648330_n.jpg" style="width:75%">
+
+
+### Feeling pensive
+
+<img src="images/IMG_9481.jpg" style="width:75%">
