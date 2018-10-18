@@ -11,3 +11,4 @@ navbar:
       href: http://github.com/<jshekelle>/
 output:
   html_document
+  theme: flatly

@@ -20,3 +20,18 @@ I can link directly to my [about page](about.html)
 ### Feeling pensive
 
 <img src="images/IMG_9481.jpg" style="width:75%">
+
+I can add code
+
+```{r}
+library(tidyverse)
+```
+
+
+```{r}
+tibble(
+  x = 1:10,
+  y = x + 2
+)
+```
+
