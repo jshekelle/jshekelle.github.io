@@ -2,52 +2,91 @@
 title: "About"
 ---
 
-## Contact Information
-
-[Email](jshekelle@gmail.com) 
-
-[Github](http://github.com/<jshekelle>/)
-
-[LinkedIn](https://www.linkedin.com/in/jeanette-shekelle-b51553122/)
 
 
-## Resume
+#### Education
 
-###EDUCATION
 
-### EMPLOYMENT/EXPERIENCE
 
-Graduate Teaching Assistant: Mailman School of Public Health, Columbia University			    August 2018-Present
+##### Columbia University, Mailman School of Public Health 						                   Expected May 2019          Master of Public Health: Department of Epidemiology, Certificate in Sexuality, Sexual, and Reproductive Health
+Relevant Courses: Data Science, Analysis of Categorical Data, Current Issues in Sexual Health, Reproductive Health Program Planning
+
+
+
+##### University of California, Santa Cruz, Biology B.S. 				    			            December 2016
+Bachelor of Science: Biology 
+GPA: 3.76, Cum laude, Dean’s honors, and Phi Beta Kappa
+Freie Universität Berlin	, Fall 2015 semester abroad studying German, German Philosophy, and Transatlantic Feminism		
+
+
+
+
+
+#### Employment/Experience
+
+
+
+##### Graduate Teaching Assistant: Mailman School of Public Health, Columbia University			    August 2018-Present
 •	Teaching Assistant for two graduate level courses: Global & Developmental Perspectives and Qualitative Research Methods
+
 •	Lead breakout sessions, respond to questions, and grade assignments and exams for 92 graduate students
+
 •	Meet weekly with course faculty to discuss course content and student progress
 
-Graduate Scholar: Philip R. Lee Institute of Health Policy Studies, University of California, San Francisco         June-August 2018
+
+
+##### Graduate Scholar: Philip R. Lee Institute of Health Policy Studies, University of California, San Francisco         June-August 2018
 •	Met biweekly with interdisciplinary research team and worked independently the rest of the week
+
 •	Conducted qualitative analysis on health issues and health barriers faced by undocumented young adults in California
+
 •	Researched theoretical frameworks, developed research question and codebook, and coded 60+ transcripts using the software Dedoose
+
 •	Wrote background, methods, and results section for manuscript which is now going through rounds of editing and set for future publication in peer-reviewed journal
 
-Research Intern: UNICEF									                        March-June 2018
+
+
+##### Research Intern: UNICEF									                        March-June 2018
 •	Analyzed how gender-based violence (GBV) is reflected in core humanitarian response documents and processes
+
 •	Member of a 10-person team that conducted a literature review and qualitative analysis on Humanitarian Needs Overview documents and Humanitarian Response Plans to assess the extent to which GBV guidelines have been integrated for over 20 countries
 
-Research Assistant (Remote): Palo Alto VA Healthcare System					   	          March-June 2017
+
+
+##### Research Assistant (Remote): Palo Alto VA Healthcare System					   	          March-June 2017
 •	Volunteered remotely conducting literature reviews on maternity care coordination and contraceptive counseling for the Women’s Health Practice-Based Research Network, a national network of 60 (and expanding) Veterans Affairs Medical Center (VAMC) facilities aimed to increase research on an understudied population (women veterans) 
 
-Public Health Communications & Events Intern: Breathe California					      February-June 2017
+
+
+##### Public Health Communications & Events Intern: Breathe California					      February-June 2017
 •	Planned and organized the 6th annual Clear the Air Film Festival, an environmental public health event with over 100 attendees
+
 •	Wrote grants and explored new funding opportunities to support environmental health and education programs
+
 •	Trained as a facilitator for O24U, an environmental education program designed to teach low-income, elementary school students to be advocates for change in their communities
 
-Research Assistant: VA Sepulveda Ambulatory Care Center					             August-September 2016
+
+
+##### Research Assistant: VA Sepulveda Ambulatory Care Center					             August-September 2016
 •	Assisted in research for the CREATE initiative which focused on improving access to and quality of comprehensive VA care to women veterans nationally
+
 •	Duties included preparing materials for expert panels, collecting data for surveys, phoning over 100 sites to gather data, etc. 
+
 •	Assisted in Chicago site visits (Edward Hines VAMC and Jesse Brown VAMC) and Veterans Integrated Service Network 12 Stakeholder Panel Meeting 
 
 
-### SKILLS
+
+
+
+#### Skills
 •	Programs: SAS, R, GIS, MS Office
+
 •	Trainings: Citi and HIPAA
 
+
+## Contact
+
+[Github](https://github.com/jshekelle)
+
+[LinkedIn](https://www.linkedin.com/in/jeanette-shekelle-b51553122/)
 

@@ -3,8 +3,8 @@ title: "Welcome to Jeanette Shekelle's Site"
 ---
 
 
-<img src="1396935_10153481061943009_8485050370946376368_o" style="width:75%">
+<img src="images/1396935_10153481061943009_8485050370946376368_o.jpeg" style="width:75%">
 
-I am a graduate student at Columbia University studying public health. Concentrating in epidemiology and sexuality, I hope to conduct social determinants of health research directed at improving policy. 
+I am a graduate student at Columbia University studying public health. Concentrating in epidemiology and sexuality, I hope to conduct social determinants of health research that improves policy. 
 
-To see full professional experience and my contact information [click here](about.html)
+To see my full professional experience and my contact information [click here](about.html)
