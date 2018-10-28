@@ -1,37 +1,10 @@
 ---
-title: "Holy cow!"
+title: "Welcome to Jeanette Shekelle's Site"
 ---
 
-### I have a webpage!
 
-And I can put all kinds of stuff on it!
+<img src="1396935_10153481061943009_8485050370946376368_o" style="width:75%">
 
-### Add some links
+I am a graduate student at Columbia University studying public health. Concentrating in epidemiology and sexuality, I hope to conduct social determinants of health research directed at improving policy. 
 
-I like [google](https://www.google.com/). 
-
-I can link directly to my [about page](about.html)
-
-### Picture of rocks
-
-<img src="images/1901870_10202126867388091_821648330_n.jpg" style="width:75%">
-
-
-### Feeling pensive
-
-<img src="images/IMG_9481.jpg" style="width:75%">
-
-I can add code
-
-```{r}
-library(tidyverse)
-```
-
-
-```{r}
-tibble(
-  x = 1:10,
-  y = x + 2
-)
-```
-
+To see full professional experience and my contact information [click here](about.html)
