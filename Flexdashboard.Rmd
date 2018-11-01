@@ -1,11 +1,9 @@
 ---
-title: "Flex Dashboard"
-author: "Jeanette Shekelle"
-date: "11/2/2018"
+title: "Flexdashboard"
 output: 
   flexdashboard::flex_dashboard:
-  orientation: columns
-  vertical_layout: fill
+    orientation: columns
+    vertical_layout: fill
 ---
 
 
@@ -50,7 +48,7 @@ nyc_food_inspect_smaller %>%
   arrange(desc(n)) %>% 
   head(10) %>% 
   mutate(cuisine_description = fct_reorder(cuisine_description, n)) %>% 
-  plot_ly(x = ~cuisine_description, y = ~n, color = ~cuisine_description, type = "bar")
+  plot_ly(x = ~cuisine_description, y = ~n, color = ~cuisine_description, type = "bar", showlegend = FALSE)
 
 ```
 
