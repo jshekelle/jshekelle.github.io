@@ -14,17 +14,9 @@ library(flexdashboard)
 library(tidyverse)
 library(viridis)
 library(plotly)
-```
 
-
-
-```{r setup, include=FALSE}
 nyc_food_inspect = read_csv("./data/DOHMH_New_York_City_Restaurant_Inspection_Results.csv.gz")
-```
 
-
-
-```{r setup, include=FALSE}
 set.seed(1)
 
 nyc_food_inspect_smaller = 
@@ -33,6 +25,7 @@ nyc_food_inspect_smaller =
   na.omit() %>% 
   sample_n(5000)
 ```
+
 
 Column {data-width=650}
 -----------------------------------------------------------------------
