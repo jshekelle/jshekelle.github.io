@@ -8,6 +8,6 @@ navbar:
     - icon: fa-envelope fa-lg
       href: jshekelle@gmail.com>
     - icon: fa-github fa-lg
-      href: http://github.com/<jshekelle>/
+      href: https://github.com/<jshekelle>/
 output:
   html_document
