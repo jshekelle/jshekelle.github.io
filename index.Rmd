@@ -8,3 +8,5 @@ title: "Welcome to Jeanette Shekelle's Site"
 I am a graduate student at Columbia University studying public health. Concentrating in epidemiology and sexuality, I hope to conduct social determinants of health research that improves policy. 
 
 To see my full professional experience and my contact information [click here](about.html)
+
+To see my plotly graphs of NYC Restaurant Inspection Scores, [click here](Flexdashboard.html)
